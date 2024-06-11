@@ -1,1 +1,1 @@
-console.log("common/index.js")
+console.log("common/insadex.js")
