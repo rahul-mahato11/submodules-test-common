@@ -1,1 +1,1 @@
-console.log("common/insadex.js")
+console.log("common/test-parent")
