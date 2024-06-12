@@ -1,2 +1,2 @@
-console.log("common/insadex")
+console.log("common/sss")
 console.log("common/subtree")
